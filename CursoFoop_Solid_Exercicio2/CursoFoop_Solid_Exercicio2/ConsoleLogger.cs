@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoFoop_Solid_Exercicio2
 {
-    class ConsoleLogger 
+    class ConsoleLogger : ILogger
     {
         public void Registrar(string mensagem)
         {

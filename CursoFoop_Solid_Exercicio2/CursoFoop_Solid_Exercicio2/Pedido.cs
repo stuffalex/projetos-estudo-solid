@@ -4,7 +4,14 @@ namespace CursoFoop_Solid_Exercicio2
 {
     public class Pedido
     {
-        private ConsoleLogger log = new ConsoleLogger();
+        //private ConsoleLogger log = new ConsoleLogger();
+        private ILogger log;
+
+        public Pedido(ILogger _log)
+        {
+            log = _log;
+        }
+
         public virtual void AdicionarPedido()
         {
             try

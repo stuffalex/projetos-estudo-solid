@@ -11,3 +11,17 @@ C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\net
 C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.dll
 C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.pdb
 C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.genruntimeconfig.cache
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.exe
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.deps.json
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.runtimeconfig.json
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.runtimeconfig.dev.json
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.dll
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.pdb
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.csproj.AssemblyReference.cache
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.AssemblyInfoInputs.cache
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.AssemblyInfo.cs
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.dll
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.pdb
+C:\Users\alexy\Documents\Estudo\projetos-estudo-solid\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.genruntimeconfig.cache

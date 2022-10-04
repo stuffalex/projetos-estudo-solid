@@ -1,0 +1,3 @@
+pode ser aplicado o desacoplamento utilizando uma inversão de dependência da classe console logger e pedido;
+e uma injeção de dependência criando uma interface para a console logger que sera implementada para registrar um log
+e injetada na classe pedido vai registrar os logs no try catch

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wBqDZz8czSXzaBjUUQxAkv5RvdI13bHnP5OF5j5z/smaya3sixTePTHQBFNCoqmHpk3RrSHY92lrOXyxG4xUIA==",
+  "dgSpecHash": "dJABO0q1Cc1kmQLKqNKNtPsLUaRHJnucv8LQ1ndCiFLLHc8mN/EVgSn2u4IvcxHzNgpj8Nf0QHpNXgZoDZOe5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexy\\Documents\\Estudo\\Projetos Estudo SOLID\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1.csproj",
+  "projectFilePath": "C:\\Users\\alexy\\Documents\\Estudo\\projetos-estudo-solid\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],

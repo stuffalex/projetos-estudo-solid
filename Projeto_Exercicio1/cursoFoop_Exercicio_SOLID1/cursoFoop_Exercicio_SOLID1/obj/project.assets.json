@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexy\\Documents\\Estudo\\Projetos Estudo SOLID\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1.csproj",
+      "projectUniqueName": "C:\\Users\\alexy\\Documents\\Estudo\\projetos-estudo-solid\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1.csproj",
       "projectName": "cursoFoop_Exercicio_SOLID1",
-      "projectPath": "C:\\Users\\alexy\\Documents\\Estudo\\Projetos Estudo SOLID\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1.csproj",
+      "projectPath": "C:\\Users\\alexy\\Documents\\Estudo\\projetos-estudo-solid\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1.csproj",
       "packagesPath": "C:\\Users\\alexy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexy\\Documents\\Estudo\\Projetos Estudo SOLID\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\obj\\",
+      "outputPath": "C:\\Users\\alexy\\Documents\\Estudo\\projetos-estudo-solid\\Projeto_Exercicio1\\cursoFoop_Exercicio_SOLID1\\cursoFoop_Exercicio_SOLID1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

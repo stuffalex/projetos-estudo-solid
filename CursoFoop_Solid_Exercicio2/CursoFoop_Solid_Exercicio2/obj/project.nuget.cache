@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSJF9R9ehO2EqhLEaX3K8TrRmxHCYb0NIMIolLbKx17gYfWPMjRM4FWNXCP5OApTa1cCk0oVUsRPYHkwnXmSNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexy\\Documents\\Estudo\\projetos-estudo-solid\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2\\CursoFoop_Solid_Exercicio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

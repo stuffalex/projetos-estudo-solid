@@ -1,0 +1,13 @@
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.exe
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.deps.json
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.runtimeconfig.json
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.runtimeconfig.dev.json
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.dll
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\bin\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.pdb
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.csprojAssemblyReference.cache
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.csproj.CoreCompileInputs.cache
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.AssemblyInfoInputs.cache
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.AssemblyInfo.cs
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.dll
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.pdb
+C:\_CShp2020\CursoFoop_Solid_Exercicio2\CursoFoop_Solid_Exercicio2\obj\Debug\netcoreapp3.1\CursoFoop_Solid_Exercicio2.genruntimeconfig.cache
